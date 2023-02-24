@@ -1,4 +1,4 @@
-# ProjectPro-Search-Bar with SBERT and FAISS
+# Search-Bar with SBERT and FAISS
 
 ### Project Files Description:
 
