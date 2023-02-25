@@ -5,7 +5,7 @@
 Create an SBERT and FAISS based search bar and ensure that any change in the training data, i.e feature store, or any change in the code, i.e resulting from hyper-parameter tuning or bert/faiss model upgrade, will trigger an end-to-end training job without disruption of the service already in production
 
 ## Scope
-In this current work, we assume that the search bar is already built and we only focus on introducing the automation pipeline that monitors changes in data and/or model and therefore train and deploy a new model to production
+In this work, the search bar is already built and only focus on the automation pipeline that monitors changes in data and/or model and therefore train and deploy a new model to production
 
 ## Approach
 We are going to use 
