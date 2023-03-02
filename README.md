@@ -47,5 +47,5 @@
   * login username: `admin`
   * login password: `<contact this repo admin>`
   * Jenkins codebase: https://github.com/kedardezyre/camille_projects/tree/jenkinsserver
-* Additional notes (Still Work In Progress): https://github.com/projectpro-product/sbert-search-bar/blob/prod/tutorial.md
+
 
